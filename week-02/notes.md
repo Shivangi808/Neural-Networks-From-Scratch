@@ -248,14 +248,14 @@ np.random.randint()
 
 ## Revision Checklist
 
-- [ ] Scalar
-- [ ] Vector
-- [ ] Row Vector
-- [ ] Column Vector
-- [ ] Matrix
-- [ ] Shape
-- [ ] Dot Product
-- [ ] Matrix Multiplication
-- [ ] Identity Matrix
-- [ ] Transpose
-- [ ] NumPy implementation
+- [x] Scalar
+- [x] Vector
+- [x] Row Vector
+- [x] Column Vector
+- [x] Matrix
+- [x] Shape
+- [x] Dot Product
+- [x] Matrix Multiplication
+- [x] Identity Matrix
+- [x] Transpose
+- [x] NumPy implementation
