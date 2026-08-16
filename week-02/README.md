@@ -22,6 +22,6 @@
 
 ## Status
 
-- [ ] Theory
-- [ ] Implementation
-- [ ] Notes
+- [x] Theory
+- [x] Implementation
+- [x] Notes
