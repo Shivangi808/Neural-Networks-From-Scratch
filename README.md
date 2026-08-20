@@ -13,7 +13,7 @@ The goal is to understand every concept mathematically, implement it from scratc
 - [x] Week 3 - Calculus Foundations
 - [x] Week 4 - Artificial Neuron
 - [x] Week 5 - Perceptron
-- [ ] Week 6 - Activation Functions
+- [x] Week 6 - Activation Functions
 - [ ] Week 7 - Loss Functions
 - [ ] Week 8 - Gradient Descent
 - [ ] Week 9 - Backpropagation
