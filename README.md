@@ -15,7 +15,7 @@ The goal is to understand every concept mathematically, implement it from scratc
 - [x] Week 5 - Perceptron
 - [x] Week 6 - Activation Functions
 - [x] Week 7 - Loss Functions
-- [ ] Week 8 - Gradient Descent
+- [x] Week 8 - Gradient Descent
 - [ ] Week 9 - Backpropagation
 - [ ] Week 10 - Neural Network from Scratch
 
